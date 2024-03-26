@@ -1,0 +1,4 @@
+baseURL = 'http/sepehr.io/blog'
+languageCode = 'en-us'
+title = 'My notes'
+theme = 'ananke'
