@@ -1,0 +1,5 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'My notes'
+theme = 'ananke'
+theme = 'ananke'
